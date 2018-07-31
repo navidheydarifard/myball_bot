@@ -1,2 +1,3 @@
 # myball_bot
-myball telegram bot API
+myball telegram Smart bot 
+game online
